@@ -1,0 +1,410 @@
+{
+    "sources": [
+        {
+            "URL": "https://sustainabledevelopment.un.org/post2015/transformingourworld",
+            "author": [
+                {
+                    "family": "(UNGA)",
+                    "given": "United Nations General Assembly"
+                }
+            ],
+            "id": "UNGA2015transform",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "Resolution adopted by the General Assembly on 25 September 2015 (A/RES/70/1)",
+            "title": "Transforming our world: The 2030 agenda for sustainable development",
+            "title-short": "Transforming our world",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "dropping-particle": "of",
+                    "family": "Brunei Darussalam",
+                    "given": "Government"
+                }
+            ],
+            "id": "GovernmentBruneiNDwawasan",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Brunei darussalam long-term development plan. Wawasan brunei 2035",
+            "type": ""
+        },
+        {
+            "DOI": "https://doi.org/10.2307/143141",
+            "author": [
+                {
+                    "family": "Tobler",
+                    "given": "Waldo R"
+                }
+            ],
+            "container-title": "Economic geography",
+            "id": "tobler1970computer",
+            "issue": "sup1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1970
+                    ]
+                ]
+            },
+            "page": "234-240",
+            "publisher": "Taylor & Francis",
+            "title": "A computer movie simulating urban growth in the detroit region",
+            "type": "article-journal",
+            "volume": "46"
+        },
+        {
+            "URL": "https://databank.worldbank.org/source/world-development-indicators/Series/AG.LND.FRST.ZS",
+            "author": [
+                {
+                    "family": "Bank",
+                    "given": "World"
+                }
+            ],
+            "id": "WorldBank2021forest",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "World development indicators: Forest area (% of land area)",
+            "title-short": "World development indicators",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "DEPS"
+                }
+            ],
+            "id": "DEPS2022population",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "publisher": "Department of Economic Planning; Statistics, Ministry of Finance; Economy, Brunei Darussalam",
+            "title": "The population and housing census report (BPP) 2021: Demographic, household and housing characteristics",
+            "title-short": "The population and housing census report (BPP) 2021",
+            "type": "book"
+        },
+        {
+            "DOI": "https://doi.org/10.1080/17441730.2023.2240108",
+            "author": [
+                {
+                    "family": "Arifin",
+                    "given": "Evi Nurvidya"
+                },
+                {
+                    "family": "Ananta",
+                    "given": "Aris"
+                },
+                {
+                    "family": "Musa",
+                    "given": "Siti Fatimahwati Pehin Dato"
+                },
+                {
+                    "family": "Hoon",
+                    "given": "Chang-Yau"
+                }
+            ],
+            "container-title": "Asian Population Studies",
+            "id": "arifin2024pioneering",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "222-240",
+            "publisher": "Taylor & Francis",
+            "title": "A pioneering study on measuring poverty in the hydrocarbon-rich state of brunei darussalam",
+            "type": "article-journal",
+            "volume": "20"
+        },
+        {
+            "author": [
+                {
+                    "family": "MOE"
+                }
+            ],
+            "id": "moe2019education",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "publisher": "Department of Planning, Development; Research, Ministry of Education, Brunei Darussalam",
+            "title": "Brunei darussalam education statistics 2018",
+            "type": "book"
+        },
+        {
+            "URL": "https://www.jstor.org/stable/2983777",
+            "author": [
+                {
+                    "family": "Moran",
+                    "given": "Patrick AP"
+                }
+            ],
+            "container-title": "Journal of the Royal Statistical Society. Series B (Methodological)",
+            "id": "moran1948interpretation",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1948
+                    ]
+                ]
+            },
+            "page": "243-251",
+            "publisher": "JSTOR",
+            "title": "The interpretation of statistical maps",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "URL": "https://www.paulamoraga.com/book-spatial/",
+            "author": [
+                {
+                    "family": "Moraga",
+                    "given": "Paula"
+                }
+            ],
+            "id": "moraga2023spatial",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "publisher": "CRC Press",
+            "title": "Spatial statistics for data science: Theory and practice with r",
+            "title-short": "Spatial statistics for data science",
+            "type": "book"
+        },
+        {
+            "DOI": "https://doi.org/10.1111/j.1538-4632.1992.tb00261.x",
+            "author": [
+                {
+                    "family": "Getis",
+                    "given": "Arthur"
+                },
+                {
+                    "family": "Ord",
+                    "given": "J Keith"
+                }
+            ],
+            "container-title": "Geographical analysis",
+            "id": "getis1992analysis",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "189-206",
+            "publisher": "Wiley Online Library",
+            "title": "The analysis of spatial association by use of distance statistics",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Getis",
+                    "given": "Arthur"
+                }
+            ],
+            "container-title": "Geographical analysis",
+            "id": "getis2008history",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "297-309",
+            "publisher": "Wiley Online Library",
+            "title": "A history of the concept of spatial autocorrelation: A geographer’s perspective",
+            "title-short": "A history of the concept of spatial autocorrelation",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "DOI": "https://doi.org/10.1007/978-981-16-8136-3_46-1",
+            "author": [
+                {
+                    "family": "Ebil",
+                    "given": "Syazana"
+                },
+                {
+                    "family": "Shahrill",
+                    "given": "Masitah"
+                }
+            ],
+            "container-title": "International handbook on education in south east asia",
+            "id": "ebil2023overview",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "1-21",
+            "publisher": "Springer",
+            "title": "Overview of education in brunei darussalam",
+            "type": "chapter"
+        },
+        {
+            "DOI": "https://doi.org/10.1007/978-3-031-60303-7_2",
+            "author": [
+                {
+                    "family": "Salbrina",
+                    "given": "Sharbawi"
+                },
+                {
+                    "family": "Deterding",
+                    "given": "David"
+                },
+                {
+                    "family": "Nur Raihan",
+                    "given": "Mohamad"
+                }
+            ],
+            "container-title": "Brunei english: A new variety in a multilingual society",
+            "id": "salbrina2024education",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "17-32",
+            "publisher": "Springer",
+            "title": "Education in brunei",
+            "type": "chapter"
+        },
+        {
+            "DOI": "https://doi.org/10.1007/978-3-030-77119-5_8",
+            "author": [
+                {
+                    "family": "Abdul Latif",
+                    "given": "Siti Norhedayah"
+                },
+                {
+                    "family": "Matzin",
+                    "given": "Rohani"
+                },
+                {
+                    "family": "Escoto-Kemp",
+                    "given": "Aurelia"
+                }
+            ],
+            "container-title": "Globalisation, Education, and Reform in Brunei Darussalam",
+            "id": "abdul2021development",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "151-175",
+            "publisher": "Springer",
+            "title": "The development and growth of inclusive education in brunei darussalam",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "https://doi.org/10.1007/978-94-024-0927-7_25",
+            "author": [
+                {
+                    "family": "Mohamad",
+                    "given": "Hanapi"
+                },
+                {
+                    "family": "Yaakub",
+                    "given": "Rosyati M"
+                },
+                {
+                    "family": "Pearson",
+                    "given": "Emma Claire"
+                },
+                {
+                    "family": "Sim",
+                    "given": "Jennifer Tan Poh"
+                }
+            ],
+            "container-title": "International handbook of early childhood education",
+            "id": "mohamad2018towards",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "551-567",
+            "publisher": "Springer",
+            "title": "Towards wawasan brunei 2035: Early childhood education and development in brunei darussalam",
+            "title-short": "Towards wawasan brunei 2035",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "M Karun",
+                    "given": "Kalesh"
+                },
+                {
+                    "family": "Puranik",
+                    "given": "Amitha"
+                },
+                {
+                    "family": "V S",
+                    "given": "Binu"
+                }
+            ],
+            "container-title": "Research Journal of Mathematical and Statistical Sciences",
+            "id": "karun2015global",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "1-4",
+            "title": "Easy way to understand the global measures of spatial autocorrelations",
+            "type": "article-journal",
+            "volume": "3"
+        }
+    ],
+    "project_biblios": []
+}
